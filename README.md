@@ -1,6 +1,10 @@
-# JW Attendance Manager
+<p align="center">
+    <img src="./public/assets/images/logo/logo.svg" alt="JW Attendance Manager logo" width="300px">
+</p>
 
-Manage the attendance for meetings. Simple and easy to use! 😊
+<h1 align="center">JW Attendance Manager</h1>
+
+<p align="center">Manage the attendance for meetings. Simple and easy to use! 😊</p>
 
 ## Table of Contents
 
