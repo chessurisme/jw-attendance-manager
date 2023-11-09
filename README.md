@@ -6,6 +6,12 @@
 
 <p align="center">Manage the attendance for meetings. Simple and easy to use! 😊</p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4edd5ee944a85e0695ef7b116583a10d50258ce02bf830cb29a8e944ef2f6b95/68747470733a2f2f7261776769742e636f6d2f616c65656e34322f6261646765732f6d61737465722f7372632f6a6176617363726970742e737667" alt="Vanilla JS"/>
+  <img src="https://badges.aleen42.com/src/rollup.svg">
+  <img src="https://badges.aleen42.com/src/jest_2.svg">
+</p>
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -31,8 +37,8 @@ Easy, right?
 
 ## Changelog
 
-- See the [CHANGELOG.md](./src/docs/CHANGELOG.md) ⏳
+- See the [CHANGELOG.md](./docs/CHANGELOG.md) ⏳
 
 ## Copyright and License
 
-Code Copyright 2023 Word Counter. Code released under [MIT License](LICENSE.md)
+Code Copyright 2023 JW Attendance Manager. Code released under [MIT License](LICENSE.md)
