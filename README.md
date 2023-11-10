@@ -22,14 +22,15 @@
 ## Installation
 
 1. Go to this [webpage](https://www.jw-attendance-manager.web.app). 🤗
-2. Tap the three dots or More section of your browser.
-3. Find for **"Install JW Attendance Manager"**
-4. Wait for completion, and check your home page.
-5. Once installed, enjoy! 📲
+2. In floating card, tap on **Install JW Attendance Manager**.
+3. If you didn't see a floating card, tap the three dots or More section of your browser.
+4. Find for **"Install JW Attendance Manager"**
+5. Wait for completion, and check your home page.
+6. Once installed, enjoy! 📲
 
 ## Usage
 
-Just add number according to the designated columnm, and the app calculates the average attendance for you! ☕
+Just add number according to the designated column, and the app calculates the average attendance for you! ☕
 
 Every first day of the month, the app notify to send the data to the congregation secretary! 💼
 
