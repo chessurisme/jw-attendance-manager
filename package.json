@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
+    "handlebars": "^4.7.8",
     "jsdom": "^22.1.0",
     "lucide": "^0.292.0"
   },
